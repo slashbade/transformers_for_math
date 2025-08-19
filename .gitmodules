@@ -1,0 +1,3 @@
+[submodule "PyCox"]
+	path = PyCox
+	url = https://github.com/geckmf/PyCox.git
